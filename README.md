@@ -21,14 +21,14 @@ Software abierto: [Proportione/prisma](https://github.com/Proportione/prisma), t
 
 ## En qué trabajo
 
-- **Agentes IA en producción**: Claude Code + MCP + Ollama local (*Capataz-Obrero*).
+- **Agentes de IA en producción**: MCP + Ollama local (*Capataz-Obrero*).
 - **Automatización de operaciones**: soporte, CRM, BI, FinOps.
 - **Transformación digital ibérica**: clientes en España y Portugal, e-commerce, educación, tercer sector.
-- **Software libre**: [Proportione/proportione-plugins](https://github.com/Proportione/proportione-plugins), plugins Claude Code que usamos a diario.
+- **Software libre**: proyectos abiertos en [github.com/Proportione](https://github.com/Proportione).
 
 ## Stack
 
-Claude Code · MCP · Ollama · Node.js · Python · GCP · Terraform · WordPress · Playwright
+MCP · Ollama · Node.js · Python · GCP · Terraform · WordPress · Playwright
 
 ## Dónde
 
