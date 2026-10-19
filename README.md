@@ -1,6 +1,6 @@
 # Javier Cuervo
 
-Químico y doctorando en *Business Innovation* en la Universidade de Aveiro.
+Químico orgánico y doctorando en *Business Innovation* en la Universidade de Aveiro.
 Cofundador y CTO de [**Proportione**](https://proportione.com), consultoría ibérica de estrategia, tecnología y personas (Madrid ⟷ Aveiro).
 
 En IA aplicada desde 2008 (BrainSINS, Davinci 3 de OpenAI en alfa, 2021).
